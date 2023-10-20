@@ -22,11 +22,11 @@ I'm working on a web tool similar to Postman but with additional features like d
 
 ## 📊 GitHub Stats
 
-![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Imvikram99&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide_border=true&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imvikram99&hide_border=true&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imvikram99&theme=radical&hide_border=true)
 
 ## 📝 Latest Blog Posts
 
