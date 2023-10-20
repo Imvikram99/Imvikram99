@@ -1,8 +1,8 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Vikram Panwar 👋
 
 ## 👨‍💻 About Me
 
-I'm a Java developer currently diving deep into React and Redux Toolkit to build enterprise-level software solutions.
+I'm a TechLead currently diving deep into React and Redux Toolkit to build enterprise-level software solutions.
 
 ![Java](https://img.shields.io/badge/-Java-blue)
 ![React](https://img.shields.io/badge/-React-blue)
@@ -17,17 +17,24 @@ I'm working on a web tool similar to Postman but with additional features like d
 - Java
 - React
 - Redux Toolkit
-- [Add other skills]
+- Spring Boot
+- Kafka
 
 ## 📊 GitHub Stats
 
-[Include GitHub Stats]
+![Vikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&hide_border=true&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)
 
 ## 📝 Latest Blog Posts
 
-[Include dynamic updates of your latest blog posts]
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[Include dynamic updates of your latest blog posts, if applicable]
 
 ## 📬 Get in Touch
 
 [LinkedIn](your-linkedin-link) | [Twitter](your-twitter-link) | [Portfolio](your-portfolio-link)
-
