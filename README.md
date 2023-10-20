@@ -5,9 +5,9 @@
 I'm a TechLead currently diving deep into React and Redux Toolkit to build enterprise-level software solutions.
 
 ![Java](https://img.shields.io/badge/-Java-blue)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
-![Kafka](https://img.shields.io/badge/-Kafka-black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue)
+![Kafka](https://img.shields.io/badge/-Kafka-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-blue)
