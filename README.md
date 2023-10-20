@@ -14,7 +14,7 @@ I'm a TechLead currently diving deep into React and Redux Toolkit to build enter
 
 ## 🚀 Current Project
 
-I'm working on a web tool similar to Postman but with additional features like drag-and-drop APIs and form graphs for sequential execution.
+I'm working on Enterprise Application with lots of complex features , I lead the team and take full ownership of the project.
 
 ## 🛠️ Skills 
 
