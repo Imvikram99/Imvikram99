@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a TechLead currently diving deep into React and Redux Toolkit to build enterprise-level software solutions.
+I'm a TechLead currently diving deep into LLMs to build enterprise-level software solutions.
 
 ![Java](https://img.shields.io/badge/-Java-blue)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-blue)
@@ -11,6 +11,7 @@ I'm a TechLead currently diving deep into React and Redux Toolkit to build enter
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-blue)
+![Python](https://img.shields.io/badge/-Python-blue)
 
 ## 🚀 Current Project
 
