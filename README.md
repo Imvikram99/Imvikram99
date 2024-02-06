@@ -24,6 +24,9 @@ I'm working on Enterprise Application with lots of complex features , I lead the
 - Redux Toolkit
 - Spring Boot
 - Kafka
+- Python
+- LLMs
+
 
 ## 📊 GitHub Stats
 
