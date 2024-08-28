@@ -1,4 +1,4 @@
-# Hello, I'm Vikram Panwar 👋
+# Hello, I'm Vikram  👋
 
 ## 👨‍💻 About Me
 
