@@ -26,6 +26,8 @@ I'm working on Enterprise Application with lots of complex features , I lead the
 - Kafka
 - Python
 - LLMs
+- LangGraph
+- Ai Agents
 
 
 ## 📊 GitHub Stats
